@@ -1,2 +1,2 @@
 # BumpTempo
-Very simple android app that counts tempo with speedometer
+Very simple android app that calculates tempo using speedometer
